@@ -1,6 +1,6 @@
 <h1 align="center">Hi, :wave:</h1>
 
-<span align="center">I am <h2>Dinesh Vaghela</h2></span>
+I am <h2 align="center">Dinesh Vaghela</h2>
 
 <h3 align="center">A passionate web developer from India.</h3>
 
